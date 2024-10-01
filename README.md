@@ -1,4 +1,4 @@
-# Ticket booking website design for NekoCinema
+# Ticket booking website design for NekoCinema with figma
 
 Link design: https://www.figma.com/design/T5hPyfIpFXCbHuuNck7tek/NekoCinema?node-id=0-1&t=IPadd5pcMDrZWdfW-1
 
